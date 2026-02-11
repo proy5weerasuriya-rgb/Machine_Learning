@@ -5,7 +5,8 @@ To create a professional GitHub README for your Teachable Machine model, you can
 Since I cannot "see" the specific classes you trained (e.g., "Dog vs Cat" or "Rock-Paper-Scissors") without opening the link in a browser that supports the tool, I have used **[PLACEHOLDERS]** in brackets. Replace those with your specific details.
 
 ---
-<img width="450" height="655" alt="image" src="https://github.com/user-attachments/assets/0415467f-e6f6-4ab4-be36-565f9c911063" />
+<img width="526" height="673" alt="Screenshot 2026-02-11 113150" src="https://github.com/user-attachments/assets/1b8ac3d6-250f-4715-acf4-ced56b2d84fb" />
+
 <img width="559" height="731" alt="Screenshot 2026-02-11 113315" src="https://github.com/user-attachments/assets/5f6d0d89-2302-4a58-b125-2cfb6dd7af6e" />
 <img width="450" height="655" alt="Screenshot 2026-02-11 113330" src="https://github.com/user-attachments/assets/134c5d29-b51f-4b70-bb6d-69c5bcd03790" />
 
