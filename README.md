@@ -46,27 +46,6 @@ const URL = "https://teachablemachine.withgoogle.com/models/vrE169A8O/";
 
 let model, webcam, labelContainer, maxPredictions;
 
-async function init() {
-    const modelURL = URL + "model.json";
-    const metadataURL = URL + "metadata.json";
-
-    // Load the model and metadata
-    model = await tmImage.load(modelURL, metadataURL);
-    maxPredictions = model.getTotalClasses();
-    
-    // Setup webcam and start prediction loop...
-}
-
-```
-
-### 2. Python (TensorFlow/Keras)
-
-If you want to run this locally on your computer:
-
-1. Export the model from Teachable Machine as **Tensorflow / Keras**.
-2. Install dependencies: `pip install tensorflow pillow numpy`
-3. Use the `converted_keras/keras_model.h5` and `labels.txt` files provided in the export.
-
 ## 📈 Training Details
 
 * **Base Model**: MobileNet
@@ -81,10 +60,3 @@ This project is open-source. Feel free to use the model for your own creative ex
 
 *Created with [Teachable Machine*](https://teachablemachine.withgoogle.com/)
 
----
-
-### Tips for your GitHub Repository:
-
-1. **Add a Screenshot**: Take a picture or a GIF of the model working and save it as `demo.gif` in your repo, then add `![Demo](./demo.gif)` to the README.
-2. **Export Files**: If you want people to use it offline, export the model files (the `.h5` or `.json` files) and upload them directly to your GitHub repository.
-3. **Specify the Purpose**: If this was for a school project or a specific app, add a "Background" section explaining why you built it!
