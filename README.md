@@ -1,9 +1,7 @@
 # Machine_Learning
 README
 To create a professional GitHub README for your Teachable Machine model, you can use the template below.
-
-Since I cannot "see" the specific classes you trained (e.g., "Dog vs Cat" or "Rock-Paper-Scissors") without opening the link in a browser that supports the tool, I have used **[PLACEHOLDERS]** in brackets. Replace those with your specific details.
-
+## Proof of models
 ---
 <img width="526" height="673" alt="Screenshot 2026-02-11 113150" src="https://github.com/user-attachments/assets/1b8ac3d6-250f-4715-acf4-ced56b2d84fb" />
 
