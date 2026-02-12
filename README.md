@@ -9,7 +9,8 @@ To create a professional GitHub README for your Teachable Machine model, you can
 <img width="450" height="655" alt="Screenshot 2026-02-11 113330" src="https://github.com/user-attachments/assets/134c5d29-b51f-4b70-bb6d-69c5bcd03790" />
 
 
-# [Project Name: e.g., Hand Gesture Classifier]
+# Preperation Idea
+I Trained AI in three different Classes
 
 A custom image classification model trained using [Google Teachable Machine](https://teachablemachine.withgoogle.com/). This model can recognize and classify **[mention what it detects, e.g., three different hand gestures]** in real-time using a webcam.
 
