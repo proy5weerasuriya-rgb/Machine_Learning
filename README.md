@@ -20,14 +20,18 @@ The model is trained to recognize the following classes:
 * **[Class 2 Book]**: Identifies the book while i shwoing it to the webcam.
 * **[Class 3 Blank]**: 3rd Class for no objects are present.
 
-## 🚀 Model Link
-
-You can view and test the live model here:
-[https://teachablemachine.withgoogle.com/models/vrE169A8O/](https://teachablemachine.withgoogle.com/models/vrE169A8O/)
+## Tools Used 
+**Machine Learning** : To gather data and train the AI
+**GitHub** : To host the machine learning document and share this project in the word file.
 
 
   ## Reflection
   A custom image classification model trained using [Google Teachable Machine](https://teachablemachine.withgoogle.com/). This model can recognize and classify **[mention what it detects, e.g., three different hand gestures]** in real-time using a webcam.
+
+  ## 🚀 Model Link
+
+You can view and test the live model here:
+[https://teachablemachine.withgoogle.com/models/vrE169A8O/](https://teachablemachine.withgoogle.com/models/vrE169A8O/)
 
 
 ## 🛠️ How to Use This Model
