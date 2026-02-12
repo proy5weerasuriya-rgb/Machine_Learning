@@ -22,6 +22,7 @@ The model is trained to recognize the following classes:
 
 ## Tools Used 
 **Machine Learning** : To gather data and train the AI
+
 **GitHub** : To host the machine learning document and share this project in the word file.
 
 
@@ -39,12 +40,6 @@ You can view and test the live model here:
 ### 1. In a Web Project (p5.js / JavaScript)
 
 You can integrate this model into your own website using TensorFlow.js.
-
-```javascript
-// Replace this with your model URL from the export panel
-const URL = "https://teachablemachine.withgoogle.com/models/vrE169A8O/";
-
-let model, webcam, labelContainer, maxPredictions;
 
 ## 📈 Training Details
 
