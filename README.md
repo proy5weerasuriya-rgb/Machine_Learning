@@ -12,20 +12,23 @@ To create a professional GitHub README for your Teachable Machine model, you can
 # Preperation Idea
 I Trained AI in three different Classes
 
-A custom image classification model trained using [Google Teachable Machine](https://teachablemachine.withgoogle.com/). This model can recognize and classify **[mention what it detects, e.g., three different hand gestures]** in real-time using a webcam.
+## 📊 Classes
+
+The model is trained to recognize the following classes:
+
+* **[Class 1 Bottle ]**: Identifies the bottle while i showing it to the webcam.
+* **[Class 2 Book]**: Identifies the book while i shwoing it to the webcam.
+* **[Class 3 Blank]**: 3rd Class for no objects are present.
 
 ## 🚀 Model Link
 
 You can view and test the live model here:
 [https://teachablemachine.withgoogle.com/models/vrE169A8O/](https://teachablemachine.withgoogle.com/models/vrE169A8O/)
 
-## 📊 Classes
 
-The model is trained to recognize the following classes:
+  ## Reflection
+  A custom image classification model trained using [Google Teachable Machine](https://teachablemachine.withgoogle.com/). This model can recognize and classify **[mention what it detects, e.g., three different hand gestures]** in real-time using a webcam.
 
-* **[Class 1 Name]**: [Brief description, e.g., Thumbs Up]
-* **[Class 2 Name]**: [Brief description, e.g., Thumbs Down]
-* **[Class 3 Name]**: [Brief description, e.g., Neutral/No Gesture]
 
 ## 🛠️ How to Use This Model
 
